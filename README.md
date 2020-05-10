@@ -46,3 +46,10 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+
+Disclaimer
+----------
+This software is primarily meant to be useful to me where I hack stuff into the
+original suckless source code that I like. I currently have no intention of actively maintaining
+this or to improve it unless I need a new feature.
